@@ -56,7 +56,7 @@ Model performance was assessed using:
 
 - A second ANN model (without EarlyStopping) achieved **92.81%** on Kaggle but dropped to **82.52% test accuracy** and **75.5% balanced accuracy**, indicating overfitting.
 
-- **GBM** had the highest test accuracy (**86.45%**) but showed lower balanced accuracy (**78.32%**), suggesting bias toward dominant classes.
+- **GBM** had the highest test accuracy (**86.45%**) but showed lower balanced accuracy (**78.32%**), suggesting bias toward dominant classes, and for Kaggle, it dropped to **87.37%**.
 
 ---
 
